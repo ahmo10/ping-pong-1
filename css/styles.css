@@ -7,9 +7,12 @@
 }
 .main{
   text-align: center;
-  background-color: beige;
+  background-color: bisque;
   height:100px;
 }
-.central{
-  align-items: left;
+.jumbotron1{
+  background-color:goldenrod;
+}
+.jumbotron2{
+  background-color:burlywood;
 }
