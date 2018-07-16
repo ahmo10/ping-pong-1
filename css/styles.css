@@ -1,0 +1,15 @@
+.rules{
+  background-color: tomato;
+  text-align: center;
+}
+.rules li{
+  list-style: none;
+}
+.main{
+  text-align: center;
+  background-color: beige;
+  height:200px;
+}
+.central{
+  align-items: left;
+}

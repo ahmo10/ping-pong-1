@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ping pong</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script type="text/javascript" src="js/scripts.js">
+  </script>
+  </head>
+  <body>
+    <h1 class=main>PINGPONG</h1>
+    <div class="central">
+    <div class="rules">
+    <h2>lets play ping pong!</h2>
+    <p>to play ping pong submit a number into the form below and pingpong will count up to the number with a few exceptions;</p>
+    <ul>
+      <li>Numbers divisible by 3 are replaced with "ping"</li>
+      <li>Numbers divisible by 5 are replaced with "pong"</li>
+      <li>Numbers divisible by 15 are replaced with "pingpong"</li>
+    </ul>
+    </div>
+    <form id="input">
+        <label>enter your number here</label>
+        <input type="number"id="input1">
+      <button type="submit" class="btn btn-danger">Submit</button>
+    </form>
+    </div>
+    <div>
+     <ul id="results">
+
+     </ul>
+    </div>
+  </body>
+</html>
