@@ -12,7 +12,18 @@
 }
 .jumbotron1{
   background-color:goldenrod;
+  height:800px;
 }
 .jumbotron2{
   background-color:burlywood;
+  height: 800px;
+  margin-right: -100px;
+}
+.jumbotron3{
+  background-color: grey;
+  color: white;
+}
+body{
+  background-image: url("../images/cool.jpg");
+  background-attachment: fixed;
 }
