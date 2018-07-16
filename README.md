@@ -1,19 +1,19 @@
 ## DESCRIPTION
 this is a website for the game pin pong,where a user can enter any number and it will count up to the number.when the return is dividible by 3 it returns ping,when divisible by 5 it returns pong and pingpong when divisible by both 5 and 3 enjoy
 ## SPECIFICATIONS
--the application should count up to the submitted numbers
+- the application should count up to the submitted numbers
 ex.input 6
    output 1,2,3,4,5,6
--the application should return ping for numbers divisible by 3
+- the application should return ping for numbers divisible by 3
 ex. input 3
    output 1,2,pingpong
--the application should return pong for numbers divisible by 5
+- the application should return pong for numbers divisible by 5
 ex. input 5
    output 1,2,3,4,pong
--the application should return pingpong for numbers divisible by both 3 and 5
+- the application should return pingpong for numbers divisible by both 3 and 5
 ex. input 16
    output 1,2,3,4,3,4,5,6,7,8,9,10,11,12,13,14,pingpong,16
-the application should refractor all the specs above together
+- the application should refractor all the specs above together
 ex. input 16
    output 1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,14,pingpong,16
 ## AUTHOR
