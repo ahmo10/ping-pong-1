@@ -21,10 +21,10 @@ By Bashir Hassan Billow
 ## PREREQUISITES
 you require a browser preferably chrome to run this site.You will require a texteditor if your planning on editing.
 ## BUILT WITH
--html
--css
--bootstrap
--javascript and jquery
+- html
+- css
+- bootstrap
+- javascript and jquery
 ## LINK TO LIVE SITE
 https://billowbashir.github.io/ping-pong/
 ## CONTACT DETAILS
